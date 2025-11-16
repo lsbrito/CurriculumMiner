@@ -1,0 +1,311 @@
+﻿Curso/Instituição;Período;Disciplina;Carga Horária;Tipo de Disciplina;Eixo Curricular
+PUC_Rio;1;IA e Sociedade;60h;Obrigatória;Humanístico
+PUC_Rio;1;O Humano e o Fenômeno Religioso;60h;Obrigatória;Humanístico
+PUC_Rio;1;Projeto Integrado de Introdução à IA;60h;Projeto;Especialização em IA
+PUC_Rio;1;Gestão de Projetos e Risco;60h;Obrigatória;Soft Skills e Empreendedorismo
+PUC_Rio;1;Engenharia de Conhecimento e Lógica;60h;Obrigatória;Fundamentos Técnicos
+PUC_Rio;1;Modelagem e Programação;60h;Obrigatória;Fundamentos Técnicos
+PUC_Rio;1;Comunicação e Trabalho em Equipe;60h;Obrigatória;Soft Skills e Empreendedorismo
+PUC_Rio;2;Filosofia da Tecnologia;60h;Obrigatória;Humanístico
+PUC_Rio;2;Orientação e Construção de Trajetória I;60h;Obrigatória;Soft Skills e Empreendedorismo
+PUC_Rio;2;Projeto Integrado de Sistemas Inteligentes;60h;Projeto;Especialização em IA
+PUC_Rio;2;Inteligência Computacional;60h;Obrigatória;Especialização em IA
+PUC_Rio;2;Estrutura de Dados;60h;Obrigatória;Fundamentos Técnicos
+PUC_Rio;2;Cálculo I / de uma Variável / Limites e Derivadas;60h;Obrigatória;Fundamentos Técnicos
+PUC_Rio;2;Álgebra linear;60h;Obrigatória;Fundamentos Técnicos
+PUC_Rio;3;Introdução à IA Centrada no Humano;60h;Obrigatória;Especialização em IA
+PUC_Rio;3;Probabilidade e Estatística;60h;Obrigatória;Fundamentos Técnicos
+PUC_Rio;3;Projeto Integrado de Ciência de Dados;60h;Projeto;Especialização em IA
+PUC_Rio;3;Optativas de Introdução à Ciência de Dados;60h;Optativa;Especialização em IA
+PUC_Rio;3;Introdução Prática à IA;60h;Obrigatória;Especialização em IA
+PUC_Rio;3;Cálculo I / de uma Variável / Limites e Derivadas;60h;Obrigatória;Fundamentos Técnicos
+PUC_Rio;3;Álgebra linear;60h;Obrigatória;Fundamentos Técnicos
+PUC_Rio;4;Optativas de Cristianismo;60h;Optativa;Humanístico
+PUC_Rio;4;Orientação e Construção de Trajetória II;60h;Obrigatória;Soft Skills e Empreendedorismo
+PUC_Rio;4;Projeto Integrado de ML e Redes Neurais;60h;Projeto;Especialização em IA
+PUC_Rio;4;Aprendizado de Máquina e Redes Neurais;60h;Obrigatória;Especialização em IA
+PUC_Rio;4;Sistema de Bancos de Dados;60h;Obrigatória;Fundamentos Técnicos
+PUC_Rio;4;Optativas de Pesquisa Operacional;60h;Optativa;Fundamentos Técnicos
+PUC_Rio;4;Optativas de Estatística Avançada;60h;Optativa;Fundamentos Técnicos
+PUC_Rio;4;Optativas de Identificação e Criação de Soluções;60h;Optativa;Aplicações Setoriais
+PUC_Rio;5;Regulação da IA;60h;Obrigatória;Humanístico
+PUC_Rio;5;Optativas de Estudos Interdisciplinares em IA;60h;Optativa;Fundamentos Técnicos
+PUC_Rio;5;Projeto Integrado de Deep Learning;60h;Projeto;Especialização em IA
+PUC_Rio;5;Deep Learning;60h;Obrigatória;Especialização em IA
+PUC_Rio;5;Processamento de Linguagem Natural;60h;Obrigatória;Especialização em IA
+PUC_Rio;5;Algoritmos e Programação;60h;Obrigatória;Fundamentos Técnicos
+PUC_Rio;5;Optativas de Liderança;60h;Optativa;Soft Skills e Empreendedorismo
+PUC_Rio;6;Ética Cristã;60h;Obrigatória;Humanístico
+PUC_Rio;6;Orientação e Construção de Trajetória III;60h;Obrigatória;Soft Skills e Empreendedorismo
+PUC_Rio;6;Projeto Integrado de IA Generativa;60h;Projeto;Especialização em IA
+PUC_Rio;6;Modelos de IA Generativa;60h;Obrigatória;Especialização em IA
+PUC_Rio;6;Agentes Autônomos e Sistemas Multi-Agente;60h;Obrigatória;Especialização em IA
+PUC_Rio;6;Decisão Sequencial e Aprendizado;60h;Obrigatória;Especialização em IA
+PUC_Rio;6;Optativas de Estudos Interdisciplinares em IA;60h;Optativa;Soft Skills e Empreendedorismo
+PUC_Rio;6;Optativas de Gestão de Negócios;60h;Optativa;Soft Skills e Empreendedorismo
+PUC_Rio;7;Ética Socioambiental e Direitos Humanos;60h;Obrigatória;Humanístico
+PUC_Rio;7;Optativas de Estudos Avançados de IA;60h;Optativa;Especialização em IA
+PUC_Rio;7;Projeto Integrado de Robótica Inteligente e Agentes;60h;Projeto;Especialização em IA
+PUC_Rio;7;Controle Inteligente de Sistemas Robóticos;60h;Obrigatória;Especialização em IA
+PUC_Rio;7;Optativas de Gestão Estratégica;60h;Optativa;Soft Skills e Empreendedorismo
+PUC_Rio;8;Capstone em IA Aplicada;60h;Projeto;Aplicações Setoriais
+PUC_Rio;8;Eletivas Livres;60h;Eletiva;Variável
+UFRN;1;Matemática Discreta;60h;Obrigatória;Fundamentos Técnicos
+UFRN;1;Técnicas de Contagem;30h;Obrigatória;Fundamentos Técnicos
+UFRN;1;Introdução à Análise Estatística de Dados;30h;Obrigatória;Fundamentos Técnicos
+UFRN;1;Algoritmos e Programação;60h;Obrigatória;Fundamentos Técnicos
+UFRN;1;Práticas de Leitura e Escrita em Português I;30h;Obrigatória;Soft Skills
+UFRN;1;Práticas de Leitura em Inglês;30h;Obrigatória;Soft Skills
+UFRN;1;Tecnologia da Informação e Sociedade;30h;Obrigatória;Soft Skills
+UFRN;2;Cálculo II / a Várias Variáveis I / Diferencial e Integral;90h;Obrigatória;Fundamentos Técnicos
+UFRN;2;Pensamento Matemático;60h;Obrigatória;Fundamentos Técnicos
+UFRN;2;Fundamentos de Desenvolvimento de Software I;60h;Obrigatória;Fundamentos Técnicos
+UFRN;2;Tipos Abstratos de Dados;60h;Obrigatória;Fundamentos Técnicos
+UFRN;2;Práticas de Leitura e Escrita em Português II;30h;Obrigatória;Soft Skills
+UFRN;2;Ética e Dados;60h;Obrigatória;Soft Skills e Empreendedorismo
+UFRN;3;Fundamentos de Desenvolvimento de Software II;60h;Obrigatória;Fundamentos Técnicos
+UFRN;3;Estrutura de Dados;60h;Obrigatória;Fundamentos Técnicos
+UFRN;3;Matemática Discreta;60h;Obrigatória;Fundamentos Técnicos
+UFRN;3;Probabilidade e Inferência;60h;Obrigatória;Fundamentos Técnicos
+UFRN;3;Arquitetura de Computadores;60h;Obrigatória;Fundamentos Técnicos
+UFRN;3;Coleta e Raspagem de Dados;60h;Obrigatória;Especialização em IA
+UFRN;3;Empreendedorismo e Formação Empreendedora;60h;Obrigatória;Soft Skills e Empreendedorismo
+UFRN;4;Estrutura de Dados;60h;Obrigatória;Fundamentos Técnicos
+UFRN;4;Sistemas Operacionais;60h;Obrigatória;Fundamentos Técnicos
+UFRN;4;Redes de Computadores;60h;Obrigatória;Fundamentos Técnicos
+UFRN;4;Banco de Dados;60h;Obrigatória;Fundamentos Técnicos
+UFRN;4;Análise Visual de Dados;60h;Obrigatória;Especialização em IA
+UFRN;4;Transformação Digital;60h;Obrigatória;Soft Skills e Empreendedorismo
+UFRN;4;Introdução à Inteligência Artificial;60h;Obrigatória;Especialização em IA
+UFRN;5;Ciência de Dados;60h;Obrigatória;Especialização em IA
+UFRN;5;Aprendizado de Máquina Supervisionado;60h;Obrigatória;Especialização em IA
+UFRN;5;Aprendizado de Máquina Não Supervisionado;30h;Obrigatória;Especialização em IA
+UFRN;6;Aprendizado Profundo;60h;Obrigatória;Especialização em IA
+UFRN;7;Visão Computacional;60h;Obrigatória;Especialização em IA
+UFRN;7;Aprendizado por Reforço;60h;Obrigatória;Especialização em IA
+UFRN;7;Processamento de Linguagem Natural;60h;Obrigatória;Especialização em IA
+UFRN;7;Computação de Alto Desempenho;60h;Obrigatória;Especialização em IA
+UFRN;7;Inteligência Artificial Generativa;60h;Obrigatória;Especialização em IA
+UFRN;7;Gestão de Projetos e Metodologias Ágeis;60h;Obrigatória;Soft Skills e Empreendedorismo
+UFRN;7;MLOps;60h;Obrigatória;Especialização em IA
+UFRN;8;Pesquisa e Inovação;30h;Obrigatória;Soft Skills e Empreendedorismo
+UFRN;8;IA, Equidade e Direitos;60h;Obrigatória;Soft Skills e Empreendedorismo
+UFRN;8;Projeto Integrador;300h;Projeto;Aplicações Setoriais
+UNIEVENGELICA;1;Leitura e Interpretação de Texto;60h;Obrigatória;Soft Skills
+UNIEVENGELICA;1;Fundamentos de Computação e Infraestrutura;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;1;Introdução à Engenharia de Soluções com IA;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;1;Lógica Computacional com Projetos de IA;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;1;Engenharia de Dados: Coleta e Limpeza;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;1;Metodologia do Trabalho Científico;60h;Obrigatória;Soft Skills
+UNIEVENGELICA;2;Redes e Segurança para Ambientes Digitais;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;2;Estatística Descritiva com Projetos Reais;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;2;Programação Orientada a Objetos;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;2;Modelagem de Soluções com Dados;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;2;Design de Soluções com Foco no Usuário;60h;Obrigatória;Soft Skills e Empreendedorismo
+UNIEVENGELICA;2;Fundamentos Socioantropológicos;60h;Obrigatória;Humanístico
+UNIEVENGELICA;3;Computação em Nuvem;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;3;Desenvolvimento de Sistemas Web com Dados;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;3;Estatística e Visualização com Dados Reais;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;3;Aprendizado de Máquina Supervisionado;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;3;Inovação e Cultura Empreendedora;60h;Obrigatória;Soft Skills e Empreendedorismo
+UNIEVENGELICA;3;Desenvolvimento Social e Sustentabilidade;60h;Obrigatória;Humanístico
+UNIEVENGELICA;4;Infraestrutura de Sistemas Inteligentes;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;4;Sistemas e Arquiteturas Distribuídas;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;4;Gestão Estratégica de Projetos com Dados;60h;Obrigatória;Soft Skills e Empreendedorismo
+UNIEVENGELICA;4;Otimização e Modelagem Matemática;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;4;Deep Learning;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;4;Computação de Alto Desempenho;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;5;Ciência de Dados;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;5;Fusão e Integração de Dados;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;5;IA Aplicada a Ambientes Autônomos;60h;Obrigatória;Aplicações Setoriais
+UNIEVENGELICA;5;Visualização de Dados Interativos e Dashboards;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;5;Arquitetura de Sistemas Inteligentes;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;5;Automação e Otimização de Processos com IA;60h;Obrigatória;Aplicações Setoriais
+UNIEVENGELICA;6;Gestão Estratégica de Projetos com IA e Dados;60h;Obrigatória;Soft Skills e Empreendedorismo
+UNIEVENGELICA;6;Modelagem Matemática Aplicada à IA;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;6;Engenharia de Modelos Preditivos;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;6;Sistemas Sensíveis ao Contexto;60h;Obrigatória;Aplicações Setoriais
+UNIEVENGELICA;6;Residência Tecnológica I – Projeto Orientado;60h;Projeto;Aplicações Setoriais
+UNIEVENGELICA;6;Aprendizado de Máquina Escalável;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;7;Inteligência Adaptativa;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;7;Redes Neurais Avançadas;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;7;Robótica Autônoma;60h;Obrigatória;Aplicações Setoriais
+UNIEVENGELICA;7;IA Explicável e Ética Avançada;60h;Obrigatória;Soft Skills e Empreendedorismo
+UNIEVENGELICA;7;Residência Tecnológica II – Entrega Final e Avaliação;60h;Projeto;Aplicações Setoriais
+UNIEVENGELICA;8;Edge AI e Sistemas Embarcados;60h;Obrigatória;Aplicações Setoriais
+UNIEVENGELICA;8;Modelagem Estatística para IA;60h;Obrigatória;Fundamentos Técnicos
+UNIEVENGELICA;8;Aprendizado por Reforço;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;8;Mineração de Dados em Ambientes Complexos;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;8;Modelos Generativos e Criatividade Computacional;60h;Obrigatória;Especialização em IA
+UNIEVENGELICA;8;Formação Geral e Humanística;60h;Obrigatória;Humanístico
+UNIEVENGELICA;8;Cidadania, Ética e Espiritualidade;60h;Obrigatória;Humanístico
+UNILASALLE;1;Comunicação e Linguagem;80h;Obrigatória;Soft Skills
+UNILASALLE;1;Lógica Matemática;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;1;Algoritmos e Programação;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;1;Algoritmos e Programação;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;1;Inteligência Artificial;50h;Obrigatória;Especialização em IA
+UNILASALLE;2;Temas Globais Contemporâneos;80h;Obrigatória;Humanístico
+UNILASALLE;2;Métodos Estatísticos;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;2;Programação Orientada a Objetos;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;2;Algoritmos e Programação;50h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;2;Cálculo I / de uma Variável / Limites e Derivadas;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;3;Processamento da Linguagem Natural e Chatbots;80h;Obrigatória;Especialização em IA
+UNILASALLE;3;Estrutura de Dados;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;3;Fundamentos de Banco de Dados;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;3;Inteligência Artificial;80h;Obrigatória;Especialização em IA
+UNILASALLE;3;Projeto Integrador de Inovação e Tecnologia;80h;Projeto;Aplicações Setoriais
+UNILASALLE;4;Aprendizado de Máquina;80h;Obrigatória;Especialização em IA
+UNILASALLE;4;Aprendizado Profundo;80h;Obrigatória;Especialização em IA
+UNILASALLE;4;Requisitos de Software;40h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;4;Algoritmos e Programação;80h;Projeto;Aplicações Setoriais
+UNILASALLE;4;Matemática Discreta;40h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;4;Banco de Dados;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;5;Linguagens Formais e Autômatos;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;5;Aprendizado por Reforço;80h;Obrigatória;Especialização em IA
+UNILASALLE;5;Aprendizado Profundo;80h;Obrigatória;Especialização em IA
+UNILASALLE;5;Projeto Integrador de IA Aplicada;80h;Projeto;Aplicações Setoriais
+UNILASALLE;5;Sistemas de Recomendação;80h;Obrigatória;Especialização em IA
+UNILASALLE;6;Sistemas Distribuídos;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;6;Banco de Dados;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;6;Projeto Integrador Aplicado ao Aprendizado de Máquina;80h;Projeto;Aplicações Setoriais
+UNILASALLE;6;Tópicos Avançados em IA;80h;Obrigatória;Especialização em IA
+UNILASALLE;6;Sistemas Operacionais;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;7;Segurança Computacional;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;7;Tópicos Avançados em IA;80h;Obrigatória;Especialização em IA
+UNILASALLE;7;Tópicos Multidisciplinares em Inteligência Artificial;80h;Obrigatória;Aplicações Setoriais
+UNILASALLE;7;Experiência Empreendedora;80h;Obrigatória;Soft Skills e Empreendedorismo
+UNILASALLE;7;Computação Gráfica e Processamento de Imagens;80h;Obrigatória;Especialização em IA
+UNILASALLE;8;Complexidade de Algoritmos e Avaliação de Desempenho;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;8;Pesquisa Operacional;80h;Obrigatória;Fundamentos Técnicos
+UNILASALLE;8;Big Data e Internet das Coisas;80h;Obrigatória;Aplicações Setoriais
+UNILASALLE;8;Trabalho de Conclusão de Curso;80h;Projeto;Aplicações Setoriais
+UNILASALLE;8;Optativa (diversas opções listadas);80h;Optativa;Variável
+UNIMAR;1;Algoritmos e Programação;120h;Presencial;Fundamentos Técnicos
+UNIMAR;1;Matemática Discreta;80h;Presencial;Fundamentos Técnicos
+UNIMAR;1;Inteligência Artificial;80h;Presencial;Especialização em IA
+UNIMAR;1;Empreendedorismo de Modelos de Negócio Inovadores;80h;EAD;Soft Skills e Empreendedorismo
+UNIMAR;1;Fábrica de Projetos Ágeis;40h;Presencial;Aplicações Setoriais
+UNIMAR;1;Projeto de Vida e Soft skills;40h;EAD;Soft Skills
+UNIMAR;2;Estrutura de Dados;120h;Presencial;Fundamentos Técnicos
+UNIMAR;2;Banco de Dados;80h;Presencial;Fundamentos Técnicos
+UNIMAR;2;Mineração e Captura de Dados (R e Python);80h;Presencial;Especialização em IA
+UNIMAR;2;Pensamento Científico;80h;EAD;Soft Skills
+UNIMAR;2;Fábrica de Projetos Ágeis;40h;Presencial;Aplicações Setoriais
+UNIMAR;2;Projeto de Vida e Soft skills;40h;EAD;Soft Skills
+UNIMAR;3;Programação Orientada a Objetos;80h;Presencial;Fundamentos Técnicos
+UNIMAR;3;Probabilidade e Estatística;80h;Presencial;Fundamentos Técnicos
+UNIMAR;3;Algoritmos de IA (Classificadores);120h;Presencial;Especialização em IA
+UNIMAR;3;Agentes Inteligentes;80h;EAD;Especialização em IA
+UNIMAR;3;Fábrica de Projetos Ágeis;40h;Presencial;Aplicações Setoriais
+UNIMAR;3;Projeto de Vida e Soft skills;40h;EAD;Soft Skills
+UNIMAR;4;Arquitetura de Computadores;80h;Presencial;Fundamentos Técnicos
+UNIMAR;4;Meta Heurística;40h;Presencial;Especialização em IA
+UNIMAR;4;Aprendizado de Máquina;120h;Presencial;Especialização em IA
+UNIMAR;4;Engenharia de Software;80h;EAD;Fundamentos Técnicos
+UNIMAR;4;Cálculo Numérico (R);40h;Presencial;Fundamentos Técnicos
+UNIMAR;4;Redes de Computadores;80h;EAD;Fundamentos Técnicos
+UNIMAR;4;Fábrica de Projetos Ágeis;80h;Presencial;Aplicações Setoriais
+UNIMAR;4;Projeto de Vida e Soft skills;40h;EAD;Soft Skills
+UNIMAR;5;Deep Learning;120h;Presencial;Especialização em IA
+UNIMAR;5;Visão Computacional;120h;Presencial;Especialização em IA
+UNIMAR;5;Álgebra Linear e Geometria Analítica;80h;Presencial;Fundamentos Técnicos
+UNIMAR;5;Sistemas Distribuídos;80h;EAD;Aplicações Setoriais
+UNIMAR;5;Fábrica de Projetos Ágeis;40h;Presencial;Aplicações Setoriais
+UNIMAR;5;Projeto de Vida e Soft skills;40h;EAD;Soft Skills
+UNIMAR;6;Processamento de Linguagem Natural;80h;Presencial;Especialização em IA
+UNIMAR;6;Ciência de Dados;80h;Presencial;Especialização em IA
+UNIMAR;6;Sistemas Operacionais;40h;Presencial;Fundamentos Técnicos
+UNIMAR;6;Cálculo II / a Várias Variáveis I / Diferencial e Integral;80h;Presencial;Fundamentos Técnicos
+UNIMAR;6;Desenvolvimento Front-end;40h;EAD;Aplicações Setoriais
+UNIMAR;6;Inglês Instrumental;40h;EAD;Soft Skills
+UNIMAR;6;Fábrica de Projetos Ágeis;40h;Presencial;Aplicações Setoriais
+UNIMAR;6;Projeto de Vida e Soft skills;40h;EAD;Soft Skills
+UNIMAR;7;Sistemas Embarcados e IoT;80h;Presencial;Aplicações Setoriais
+UNIMAR;7;Inteligência Artificial Generativa;120h;Presencial;Especialização em IA
+UNIMAR;7;DevOPS para Inteligência Artificial;80h;Presencial;Aplicações Setoriais
+UNIMAR;7;Direito e Ética;80h;EAD;Soft Skills e Empreendedorismo
+UNIMAR;7;Fábrica de Projetos Ágeis;40h;Presencial;Aplicações Setoriais
+UNIMAR;7;Trabalho de Conclusão de Curso;100h;Presencial;Aplicações Setoriais
+UNIMAR;8;Resolução de Problemas de Grafos;80h;Presencial;Fundamentos Técnicos
+UNIMAR;8;Desenvolvimento de Softwares Inteligentes;120h;Presencial;Aplicações Setoriais
+UNIMAR;8;Tópicos Avançados em Inteligência Artificial;80h;Presencial;Especialização em IA
+UNIMAR;8;Segurança da Informação;80h;EAD;Fundamentos Técnicos
+UNIMAR;8;Trabalho de Conclusão de Curso;100h;Presencial;Aplicações Setoriais
+UFPE;1;Algoritmos e Programação;60h;Obrigatória;Fundamentos Técnicos
+UFPE;1;Cálculo I / de uma Variável / Limites e Derivadas;60h;Obrigatória;Fundamentos Técnicos
+UFPE;1;Álgebra linear;60h;Obrigatória;Fundamentos Técnicos
+UFPE;1;Leitura e Produção de Texto;60h;Obrigatória;Soft Skills
+UFPE;2;Programação Orientada a Objetos;60h;Obrigatória;Fundamentos Técnicos
+UFPE;2;Estrutura de Dados;60h;Obrigatória;Fundamentos Técnicos
+UFPE;2;Cálculo II / a Várias Variáveis I / Diferencial e Integral;60h;Obrigatória;Fundamentos Técnicos
+UFPE;2;Probabilidade e Estatística;60h;Obrigatória;Fundamentos Técnicos
+UFPE;3;Banco de Dados;60h;Obrigatória;Fundamentos Técnicos
+UFPE;3;Sistemas Operacionais;60h;Obrigatória;Fundamentos Técnicos
+UFPE;3;Inteligência Artificial;60h;Obrigatória;Especialização em IA
+UFPE;3;Engenharia de Software;60h;Obrigatória;Fundamentos Técnicos
+UFPE;4;Inteligência Artificial;60h;Obrigatória;Especialização em IA
+UFPE;4;Aprendizado de Máquina;60h;Obrigatória;Especialização em IA
+UFPE;4;Redes de Computadores;60h;Obrigatória;Fundamentos Técnicos
+UFPE;4;Empreendedorismo e Inovação;60h;Obrigatória;Soft Skills e Empreendedorismo
+UFPE;5;Visão Computacional;60h;Obrigatória;Especialização em IA
+UFPE;5;Processamento de Linguagem Natural;60h;Obrigatória;Especialização em IA
+UFPE;5;Computação em Nuvem;60h;Obrigatória;Fundamentos Técnicos
+UFPE;5;Sistemas Inteligentes;60h;Obrigatória;Especialização em IA
+UFPE;6;Robótica Inteligente;60h;Obrigatória;Aplicações Setoriais
+UFPE;6;Inteligência Artificial Generativa;60h;Obrigatória;Especialização em IA
+UFPE;6;Tópicos Avançados em IA;60h;Obrigatória;Especialização em IA
+UFPE;7;Projeto Integrador;60h;Projeto;Aplicações Setoriais
+UFPE;8;Projeto Integrador;60h;Projeto;Aplicações Setoriais
+UFPE;9;Trabalho de Conclusão de Curso;60h;Projeto;Aplicações Setoriais
+MBZUAI;1;Introdução à Inteligência Artificial;60h;Obrigatória;Especialização em IA
+MBZUAI;1;Algoritmos e Programação;60h;Obrigatória;Fundamentos Técnicos
+MBZUAI;1;Cálculo I / de uma Variável / Limites e Derivadas;60h;Obrigatória;Fundamentos Técnicos
+MBZUAI;2;Estrutura de Dados;60h;Obrigatória;Fundamentos Técnicos
+MBZUAI;2;Álgebra linear;60h;Obrigatória;Fundamentos Técnicos
+MBZUAI;2;Ética em Inteligência Artificial;60h;Obrigatória;Soft Skills e Empreendedorismo
+MBZUAI;3;Aprendizado de Máquina;60h;Obrigatória;Especialização em IA
+MBZUAI;3;Probabilidade e Estatística;60h;Obrigatória;Fundamentos Técnicos
+MBZUAI;3;Engenharia de Software;60h;Obrigatória;Fundamentos Técnicos
+MBZUAI;4;Aprendizado Profundo;60h;Obrigatória;Especialização em IA
+MBZUAI;4;Processamento de Linguagem Natural;60h;Obrigatória;Especialização em IA
+MBZUAI;4;Visão Computacional;60h;Obrigatória;Especialização em IA
+MBZUAI;5;Aprendizado por Reforço;60h;Obrigatória;Especialização em IA
+MBZUAI;5;IA para Robótica;60h;Obrigatória;Aplicações Setoriais
+MBZUAI;5;IA Centrada no Ser Humano;60h;Obrigatória;Aplicações Setoriais
+MBZUAI;6;Trabalho de Conclusão de Curso;60h;Projeto;Aplicações Setoriais
+MBZUAI;7;Trabalho de Conclusão de Curso;60h;Projeto;Aplicações Setoriais
+MBZUAI;7;Optativas (ex.: IA na Saúde, IA em Finanças);60h;Optativa;Variável
+UFG;1;Introdução à Programação;128h;Obrigatória;Fundamentos Técnicos
+UFG;1;Lógica Matemática;64h;Obrigatória;Fundamentos Técnicos
+UFG;1;Empreendedorismo;64h;Obrigatória;Soft Skills e Empreendedorismo
+UFG;2;Cálculo I / de uma Variável / Limites e Derivadas;96h;Obrigatória;Fundamentos Técnicos
+UFG;2;Estrutura de Dados;64h;Obrigatória;Fundamentos Técnicos
+UFG;2;Programação Orientada a Objetos;64h;Obrigatória;Fundamentos Técnicos
+UFG;2;Computação e Sociedade;32h;Obrigatória;Soft Skills
+UFG;2;Transformação Digital;64h;Obrigatória;Fundamentos Técnicos
+UFG;3;Algoritmos e Programação;64h;Obrigatória;Fundamentos Técnicos
+UFG;3;Banco de Dados;64h;Obrigatória;Aplicações Setoriais
+UFG;3;Estrutura de Dados;64h;Obrigatória;Humanístico
+UFG;3;Probabilidade e Estatística;64h;Obrigatória;Fundamentos Técnicos
+UFG;3;Pensamento analítico de dados;64h;Obrigatória;Fundamentos Técnicos
+UFG;4;Arquitetura de Computadores;64h;Obrigatória;Fundamentos Técnicos
+UFG;4;Álgebra linear;64h;Obrigatória;Fundamentos Técnicos
+UFG;4;Mineração de Dados em Ambientes Complexos;64h;Obrigatória;Fundamentos Técnicos
+UFG;4;Aprendizado de Máquina Supervisionado;64h;Obrigatória;Especialização em IA
+UFG;4;Processamento digital de sinais e imagens;64h;Obrigatória;Aplicações Setoriais
+UFG;5;Redes de Computadores;64h;Projeto;Aplicações Setoriais
+UFG;5;Heurística e modelagem multiobjetivo;64h;Obrigatória;Aplicações Setoriais
+UFG;5;Redes Neurais Profundas;64h;Obrigatória;Especialização em IA
+UFG;5;Visão Computacional;64h;Projeto;Aplicações Setoriais
+UFG;5;Computação de Alto Desempenho;64h;Optativa;Variável
+UFG;6;Internet da coisa;64h;Obrigatória;Especialização em IA
+UFG;6;Processamento de Linguagem Natural;64h;Projeto;Aplicações Setoriais
+UFG;6;Aprendizado de Máquina Não Supervisionado;64h;Obrigatória;Soft Skills e Empreendedorismo
+UFG;6;Aprendizado por reforço;64h;Projeto;Aplicações Setoriais
+UFG;6;Processamento de dados massivos;64h;Obrigatória;Aplicações Setoriais
+UFG;7;Percepção e ação robótica;96h;Obrigatória;Aplicações Setoriais
+UFG;7;Apoio à tomada de decisão;64h;Obrigatória;Soft Skills e Empreendedorismo
+UFG;7;Processamento de áudio e voz;64h;Obrigatória;Aplicações Setoriais
+UFG;7;Pesquisa e Inovação;21h;Obrigatória;Soft Skills e Empreendedorismo
+UFG;7;Optativa;64h;Optativa;Especialização em IA
+UFG;8;residência em I.A.;384h;Obrigatória;Especialização em IA
